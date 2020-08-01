@@ -1,0 +1,8 @@
+Here are the tasks I intend to achieve:
+- Allow the user to decide where to store movies
+- Allow the user to decide the format of the movie
+- Show the user the main interface and get their input
+- Allow the user to add movies
+- Show the user all the movies available
+- Allow the user to find a movie
+- Allow the user to decide when to terminate the program when satisfied by typing 'q'
